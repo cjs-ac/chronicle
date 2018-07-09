@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<lesson>
+  <date>01/01/2001</date>
+  <period>1</period>
+  <start>0900</start>
+  <end>1000</end>
+  <room>1.01</room>
+  <class>07SCI01</class>
+  <content><![CDATA[
+    Lesson content goes here.
+  ]]></content>
+</lesson>
+<lesson>
+  <date>01/01/2001</date>
+  <period>2</period>
+  <start>1000</start>
+  <end>1100</end>
+  <room>1.02</room>
+  <class>07SCI02</class>
+  <content><![CDATA[
+    Lesson content goes here.
+  ]]></content>
+</lesson>
